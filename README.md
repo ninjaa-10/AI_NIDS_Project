@@ -21,3 +21,19 @@ Random Forest Classifier
 
 2. Run the application:
    streamlit run nids_main.py
+
+
+
+-----Dataset-------
+
+This project uses the CIC-IDS-2017 dataset provided by the
+Canadian Institute for Cybersecurity.
+
+Due to GitHub file size limitations, the dataset is not
+uploaded to this repository.
+
+Dataset Download Link:
+https://www.unb.ca/cic/datasets/ids-2017.html
+
+File Used:
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
